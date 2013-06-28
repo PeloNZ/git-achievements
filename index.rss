@@ -2,6 +2,7 @@
 <title>Chris Wharton's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Miller (Level 2)</title><description>Add only part of a file to the stage 7 times with git add -p.</description></item>
 <item><title>Apprentice Merchant (Level 1)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Apprentice Blacksmith (Level 1)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Master Historian (Level 8)</title><description>Investigate the commit log using git log.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Apprentice Hunter (Level 2)</title><description>Used git bisect to perform a binary search to find which change introduced a bug.</description></item>
 <item><title>Apprentice Historian (Level 3)</title><description>Investigate the commit log using git log.</description></item>
 <item><title>Apprentice Historian (Level 2)</title><description>Investigate the commit log using git log.</description></item>
-<item><title>Librarian</title><description>Looked for change that introduce or remove a string with git log -S</description></item>
 </channel></rss>
