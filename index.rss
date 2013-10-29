@@ -2,6 +2,7 @@
 <title>Chris Wharton's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Apprentice Tree Trimmer (Level 2)</title><description>Rewrite branches with git filter-branch</description></item>
 <item><title>Apprentice Tree Trimmer (Level 1)</title><description>Rewrite branches with git filter-branch</description></item>
 <item><title>Master Presenter (Level 10)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
 <item><title>Blacksmith (Level 6)</title><description>Created a branch using git checkout -b.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Collector (Level 5)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
 <item><title>Merchant (Level 4)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Investigator (Level 5)</title><description>Used git blame to annotate a file with information about how each line changed.</description></item>
-<item><title>Miller (Level 5)</title><description>Add only part of a file to the stage 192 times with git add -p.</description></item>
 </channel></rss>
